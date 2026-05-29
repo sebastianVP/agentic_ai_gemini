@@ -9,3 +9,9 @@
 <img src="https://img.shields.io/badge/Tool-Calling-orange"> 
 <img src="https://img.shields.io/badge/Status-Active-success"> 
 </div>
+
+# Dependencias 
+```bash
+uv add google-genai==1.12.1 
+uv add python-dotenv==1.1.0
+
